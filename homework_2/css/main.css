@@ -1,0 +1,40 @@
+.first {
+    background: darkblue;
+    height: 250px;
+    width: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.first >h1 {
+    color: lemonchiffon;
+}
+.container {
+    height: 250px;
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.widgets {
+    background: darkblue;
+    height: 200px;
+    width: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.widgets >h4 {
+color: lemonchiffon;
+}
+.second {
+    height: 500px;
+    width: 500px;
+    background: darkblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.second >h1 {
+    color: lemonchiffon;
+}
